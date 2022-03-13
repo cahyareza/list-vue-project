@@ -1,0 +1,6 @@
+[submodule "calender_app"]
+	path = calender_app
+	url = https://github.com/cahyareza/calender_app.git
+[submodule "note_taking_app"]
+	path = note_taking_app
+	url = https://github.com/cahyareza/note_taking_app.git
